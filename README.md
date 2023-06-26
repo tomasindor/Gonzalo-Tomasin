@@ -12,7 +12,7 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 programador tanto a nivel individual como grupal
 
 ## ¿Qué tecnologías uso?
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
+El Bootcamp de Henry, junto a mi paso por [Cryptonotify.me](https://www.cryptonotify.me/) me ha permitido adquirir el conocimiento y experiencia fundamental
 para despegar 🚀 
 Por lo que las principales tecnologías que manejo son: 
 
