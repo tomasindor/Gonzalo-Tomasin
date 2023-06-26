@@ -3,7 +3,7 @@
  
  
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_** de 19 años que busca su primer trabajo como **Desarrollador**
+Soy un **Programador _Fullstack_** de 19 años que busca trabajo como **Desarrollador**
 
 Recientemente me gradué del curso de Full Stack Developer en Henry, donde adquirí habilidades en tecnologías como JavaScript, React-Redux, Express, Sequelize y más.
 
@@ -25,7 +25,7 @@ Por lo que las principales tecnologías que manejo son:
 - **Sequelize**
 - **GIT**
 - **Chakra**
-
+- **Grafana**
 
 
 ### No dudes en contactarme! 
