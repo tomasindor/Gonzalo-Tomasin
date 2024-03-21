@@ -1,15 +1,15 @@
  # Hola! Mi nombre es Gonzalo Tomasin
  ### También conocido como tomasindor en GitHub 
- 
+
+ Busco alguna pasantia o empresa que ofrezca un bootcamp
  
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_** de 19 años que busca trabajo como **Desarrollador**
+Soy un **Programador _Fullstack_** de 20 años que busca trabajo como **Desarrollador**
 
 Recientemente me gradué del curso de Full Stack Developer en Henry, donde adquirí habilidades en tecnologías como JavaScript, React-Redux, Express, Sequelize y más.
 
 ## ¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
-programador tanto a nivel individual como grupal
+Actualmente estoy estudiando la Tecnicatura universitaria en Programacion de la Universidad Nacional de La Matanza
 
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry, junto a mi paso por [Cryptonotify.me](https://www.cryptonotify.me/) me ha permitido adquirir el conocimiento y experiencia fundamental
